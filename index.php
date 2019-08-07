@@ -11,6 +11,10 @@
 <body>
     <h1>hallo remote 2</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste recusandae accusamus inventore officiis sit eius rerum aliquid. Quos fuga laudantium cum eos beatae! Nihil possimus explicabo animi doloribus nemo sed.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
